@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.RPSGame.RPSGameTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-02-27T10:32:54" hostname="piv-ws-bow" time="0.003">
+  <properties/>
+  <testcase name="paperLosesToScissors" classname="com.example.RPSGame.RPSGameTests" time="0.001"/>
+  <testcase name="scissorsLosesToRock" classname="com.example.RPSGame.RPSGameTests" time="0.0"/>
+  <testcase name="rockBeatsScissors" classname="com.example.RPSGame.RPSGameTests" time="0.0"/>
+  <testcase name="rockDrawsWithRock" classname="com.example.RPSGame.RPSGameTests" time="0.0"/>
+  <testcase name="paperBeatsRock" classname="com.example.RPSGame.RPSGameTests" time="0.0"/>
+  <testcase name="scissorsBeatsPaper" classname="com.example.RPSGame.RPSGameTests" time="0.001"/>
+  <testcase name="rockLosesToPaper" classname="com.example.RPSGame.RPSGameTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
